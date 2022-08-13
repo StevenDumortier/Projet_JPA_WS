@@ -1,0 +1,7 @@
+com\mycompany\projetfinaljpaws\dao\CategoryDAO.class
+com\mycompany\projetfinaljpaws\entity\Category.class
+com\mycompany\projetfinaljpaws\api\DocApi.class
+com\mycompany\projetfinaljpaws\api\CatApi.class
+com\mycompany\projetfinaljpaws\jpa\EntityManagerSingleton.class
+com\mycompany\projetfinaljpaws\entity\Documentation.class
+com\mycompany\projetfinaljpaws\dao\DocumentationDAO.class
